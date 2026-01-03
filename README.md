@@ -1,6 +1,5 @@
 ## Overview
 
-You will:
 1. Set up an Express.js server
 2. Create RESTful API routes for a product resource
 3. Implement custom middleware for logging, authentication, and validation
@@ -9,22 +8,18 @@ You will:
 
 ## Getting Started
 
-1. Accept the GitHub Classroom assignment invitation
-2. Clone your personal repository that was created by GitHub Classroom
-3. Install dependencies:
+1. Install dependencies:
    ```
    npm install
    ```
-4. Run the server:
+2. Run the server:
    ```
    npm start
    ```
 
-## Files Included
+## File Included
 
-- `Week2-Assignment.md`: Detailed assignment instructions
 - `server.js`: Starter Express.js server file
-- `.env.example`: Example environment variables file
 
 ## Requirements
 
@@ -34,7 +29,7 @@ You will:
 
 ## API Endpoints
 
-The API will have the following endpoints:
+The API have the following endpoints:
 
 - `GET /api/products`: Get all products
 - `GET /api/products/:id`: Get a specific product
